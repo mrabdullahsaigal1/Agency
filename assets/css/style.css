@@ -8,8 +8,6 @@
 
 
 
-
-
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -761,6 +759,11 @@ textarea.input-field {
 
 @media (min-width: 575px) {
 
+  .topHead
+{
+  width: 712px !important;
+}
+
   /**
    * REUSED STYLE
    */
@@ -820,7 +823,10 @@ textarea.input-field {
  */
 
 @media (min-width: 768px) {
-
+  .topHead
+  {
+    width: 373px ;
+  }
   /**
    * CUSTOM PROPERTY
    */
@@ -902,6 +908,11 @@ textarea.input-field {
  */
 
 @media (min-width: 992px) {
+
+.topHead
+{
+  width: 666px;
+}
 
   /**
    * CUSTOM PROPERTY
@@ -1092,6 +1103,11 @@ textarea.input-field {
  */
 
 @media (min-width: 1200px) {
+
+.topHead
+{
+  width: 666px;
+}
 
   /**
    * CUSTOM PROPERTY
