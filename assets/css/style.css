@@ -966,7 +966,7 @@ textarea.input-field {
 
   .navbar-link { position: relative; }
 
-  .navbar-link:is(:hover, :focus) { color: var(--eerie-black); }
+  .navbar-link:is(:hover, :focus) { color:#B45D9F; }
 
   .navbar-link::after {
     content: "";
