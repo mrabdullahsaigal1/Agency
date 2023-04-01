@@ -1133,7 +1133,7 @@ textarea.input-field {
    * REUSED STYLE
    */
 
-  .container { max-width: 1492px; }
+  .container { max-width: 1492px;  }
 
   .btn { --fs-6: 1.5rem; }
 
