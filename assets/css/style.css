@@ -1128,7 +1128,7 @@ textarea.input-field {
   }
 
 
-
+  
   /**
    * REUSED STYLE
    */
@@ -1149,8 +1149,8 @@ textarea.input-field {
 
   .amzaondiv
   {
-    width: 1100px !important; 
-     margin-left: 251px !important;
+    width: 1160px !important; 
+     margin-left: 122px !important;
   }
 
   /**
@@ -1204,4 +1204,13 @@ textarea.input-field {
 
   .contact-card .card-icon { padding: 15px; }
 
+}
+
+
+@media (min-width: 1500px) {
+  .amzaondiv
+  {
+    width: 1243px !important;
+    margin-left: 174px !important;
+  }
 }
